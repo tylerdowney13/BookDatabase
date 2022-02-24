@@ -1,0 +1,21 @@
+.table_container {
+    margin-left: 50px;
+}
+
+.table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.table th {
+    border: 1px solid black;
+    background-color: lightgray;
+    padding: .5em;
+    text-align: center;
+}
+
+.table td {
+    border: 1px solid black;
+    padding: .5em;
+    text-align: center;
+}
